@@ -1,0 +1,2 @@
+class NotPossibleActionError(Exception):
+    pass
